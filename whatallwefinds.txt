@@ -1,0 +1,9 @@
+1>redux 
+2>useeffect
+3>how to filter the out the categories of products from the api data
+
+
+
+//what is not working
+1>usercart becoming zero asa refresh happnens
+2>reset cart not working
